@@ -115,9 +115,9 @@
 ### Тиждень 6 — автомат станів
 
 **Дата:**
-**Мої стани:**
+**Мої стани:** poshuk → pidhid → rozvorot → gotovo
 **Переходи, які виявились зайвими:**
-**Відео:** посилання або файл
+**Відео:** [посилання або файл ](https://github.com/quxilie/rob-2026/blob/quxilie-patch-2/praktyka/06-avtomat-staniv/Video%20Project%205.mp4)
 **Що не спрацювало:**
 
 ---
